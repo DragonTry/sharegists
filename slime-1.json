@@ -5,7 +5,7 @@
   "author": "Fuse",
   "cover": "https://cdn.discordapp.com/attachments/675134710137094173/826104534727131136/17.png",
   "wiseread_settings": {
-    "chapter_title": "${ number }. ${ title }"
+    "chapter_title": "V${ volume } | ${ number }. ${ title }"
   },
   "chapters": {
     "83": {
