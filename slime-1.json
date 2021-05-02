@@ -1,16 +1,22 @@
 {
-  "title": "That Time I Got Reincarnated as a Slime",
+  "title": "That Time I Got Reincarnated as a Slime4",
   "description": "Lonely thirty-seven-year-old Satoru Mikami is stuck in a dead-end job, unhappy with his mundane life, but after dying at the hands of a robber, he awakens to a fresh start in a fantasy realm...as a slime monster! As he acclimates to his goopy new existence, his exploits with the other monsters set off a chain of events that will change his new world forever!\n\nCaught up with the last chapter and can't get enough?\nThe Light Novel continues the story at Volume 6 Chapter 5.\nRead our fan translated light novels on Slime Reader at                             ",
   "artist": "Taiki Kawakami",
   "author": "Fuse",
   "cover": "https://cdn.discordapp.com/attachments/675134710137094173/826104534727131136/17.png",
+  "wiseread_settings": {
+    "chapter_title": "${ number }. ${ title }"
+  },
   "chapters": {
     "83": {
       "title": "Crazed Pierrot",
       "volume": "17",
       "groups": {
         "Tempest": "/proxy/api/imgur/chapter/fYSMPVD/",
-        "WR_direct": "https://dl.dropboxusercontent.com/s/0xvml5x3blcwkek/Tensei%20Shitara%20Slime%20Datta%20Ken%20Chapter%201.cbz?dl=0"
+        "Tempest2": "/proxy/api/imgur/chapter/fYSMPVD/"
+      },
+      "wiseread": {
+        "direct": "https://dl.dropboxusercontent.com/s/0xvml5x3blcwkek/Tensei%20Shitara%20Slime%20Datta%20Ken%20Chapter%201.cbz?dl=0"
       },
       "last_updated": "1619446801"
     },
@@ -18,8 +24,10 @@
       "title": "The Loyalty of a Demon",
       "volume": "17",
       "groups": {
-        "Tempest": "/proxy/api/imgur/chapter/pO9LuAb/",
-        "WR_direct": "https://dl.dropboxusercontent.com/s/0mmw8ni7ziq83v7/Tensei%20Shitara%20Slime%20Datta%20Ken%20Chapter%202.cbz?dl=0"
+        "Tempest": "/proxy/api/imgur/chapter/pO9LuAb/"
+      },
+      "wiseread": {
+        "direct": "https://dl.dropboxusercontent.com/s/0mmw8ni7ziq83v7/Tensei%20Shitara%20Slime%20Datta%20Ken%20Chapter%202.cbz?dl=0"
       },
       "last_updated": "1616767260"
     },
@@ -27,8 +35,10 @@
       "title": "The Wight King",
       "volume": "17",
       "groups": {
-        "Tempest": "/proxy/api/imgur/chapter/WMwQ8k7/",
-        "WR_direct": "https://dl.dropboxusercontent.com/s/wye3g60z2pxbepy/Tensei%20Shitara%20Slime%20Datta%20Ken%20Chapter%203.cbz?dl=0"
+        "Tempest": "/proxy/api/imgur/chapter/WMwQ8k7/"
+      },
+      "wiseread": {
+        "direct": "https://dl.dropboxusercontent.com/s/wye3g60z2pxbepy/Tensei%20Shitara%20Slime%20Datta%20Ken%20Chapter%203.cbz?dl=0"
       },
       "last_updated": "1614348060"
     }
